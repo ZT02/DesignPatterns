@@ -1,0 +1,3 @@
+public  enum Adress{DOMESTIC, EUROPEAN_UNION, INTERNATIONAL};
+
+
